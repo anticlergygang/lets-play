@@ -1,0 +1,16 @@
+{
+  "name": "lets-play",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lets-play.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Clay",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "nodejs-websocket": "^1.7.0",
+    "robotjs": "^0.4.5"
+  }
+}
